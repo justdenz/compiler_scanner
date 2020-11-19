@@ -8,6 +8,7 @@ To run the program:
 ```cd ../compiler_scanner```
 
 3. enter the following commands 
+
 ```javac run.java```
 
 ```java run```
