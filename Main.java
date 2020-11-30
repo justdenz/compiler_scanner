@@ -265,8 +265,7 @@ class LexicalAnalyzer {
     }
 }
 
-public class run{
-    
+public class Main{
     public static void main(String[] args){
         LexicalAnalyzer lexAnalyzer = new LexicalAnalyzer();
         ArrayList<Token> tokenList = new ArrayList<Token>();
@@ -305,6 +304,5 @@ public class run{
 		} catch (IOException e) {
 			e.printStackTrace();
         }
-        Token newToken = new Token("R3");
     }
 }
