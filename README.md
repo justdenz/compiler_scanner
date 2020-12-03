@@ -10,6 +10,6 @@ To run the program:
 
 3. enter the following commands (main class is in Main.java)
 
-   ```javac Main.java```
+   ```javac *.java```
 
     ```java Main```
